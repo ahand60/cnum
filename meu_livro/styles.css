@@ -1,0 +1,30 @@
+body {
+    background-color: #f0f8ff; /* Cor de fundo geral */
+}
+
+.book-main {
+    background-color: #ffffff; /* Cor do conteúdo principal */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Adiciona sombra para destacar */
+    border-radius: 10px; /* Bordas arredondadas para o conteúdo */
+    margin: auto; /* Centraliza o conteúdo */
+}
+
+main {
+  text-align: justify;
+}
+
+.sidebar {
+    background-color: white; /* Cor de fundo do menu lateral */
+    color: #333; /* Cor do texto do menu lateral */
+    border-right: 2px solid #e0e0e0; /* Opcional: borda para separar o menu do conteúdo */
+}
+
+.sidebar a {
+    color: #007acc; /* Cor dos links no menu lateral */
+    text-decoration: none; /* Remove sublinhado dos links */
+}
+
+.sidebar a:hover {
+    color: #005f99; /* Cor dos links ao passar o mouse */
+    text-decoration: underline; /* Estilo ao passar o mouse */
+}

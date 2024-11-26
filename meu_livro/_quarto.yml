@@ -1,0 +1,29 @@
+project:
+  type: book
+
+publish:
+  quarto-pub:
+    server: quarto-pub
+    slug: cnum
+
+book:
+  title: "Cálculo Numérico Modular"
+  author: "Armando Handaya"
+  date: "11/25/2024"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - summary.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+  pdf:
+    documentclass: scrreprt
+
+
+

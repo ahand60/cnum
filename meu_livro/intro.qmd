@@ -1,0 +1,5 @@
+
+# Prefácio
+
+Este texto é escrito primeiramente para os alunos da disciplina de Cálculo Numérico do Instituto Federal de Educação, Ciência e Tecnologia, câmpus de Guarulhos. Mas é aberto a todos os interessados em conhecer métodos numéricos usando uma didática diferenciada e usufruindo o que temos hoje disponível no dia a dia: a tecnologia. 
+
