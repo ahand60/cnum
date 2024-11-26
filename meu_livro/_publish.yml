@@ -1,6 +1,0 @@
-- source: project
-  quarto-pub:
-    - id: fac332cf-caea-4954-815f-d5bbdf7b8e0d
-      url: 'https://ahand.quarto.pub/cálculo-numérico-modular'
-    - id: 21f9b494-7403-482a-adf4-490220758010
-      url: 'https://ahand.quarto.pub/cnum'
